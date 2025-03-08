@@ -7,14 +7,14 @@ import geocoder
 from googleapiclient.discovery import build
 
 # Google Generative AI API key
-GOOGLE_API_KEY = "AIzaSyAxTL8jZcTB1yXW1Jetzm4tsJXL3tQPPp8"
+GOOGLE_API_KEY = "replace with your API Key"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # YouTube Data API Key
-YOUTUBE_API_KEY = "AIzaSyAxTL8jZcTB1yXW1Jetzm4tsJXL3tQPPp8"
+YOUTUBE_API_KEY = "replace with your API Key"
 
 # GoMaps.Pro API Key
-PLACES_API_KEY = "AlzaSyOTgb6lUK5tL0ZKH_EAYOoNCTWIfwjLE5j"
+PLACES_API_KEY = "replace with your API Key"
 
 # Load the Model
 try:

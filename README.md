@@ -12,6 +12,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the Repository**  
    ```bash
+   repository-url: https://github.com/GayathriYarrabothula/ML-Driven-Thyroid-Prediction-Model-with-GenAI-Powered-Wellness-Recommendations-in-Healthcare.git
    git clone <repository-url>
    cd <repository-folder>
 
